@@ -1,0 +1,5 @@
+book
+*.swp
+*.bak
+__pycache__/
+target/
