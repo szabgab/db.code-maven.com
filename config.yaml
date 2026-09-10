@@ -3,7 +3,7 @@ site_name: Database Maven
 repo: https://github.com/szabgab/db.code-maven.com
 branch: main
 link_to_source: true
-footer: "[DB Maven](https://db.code-maven.com/)"
+footer: "" #[DB Maven](https://db.code-maven.com/)"
 
 tags:
   title: Tags
