@@ -24,6 +24,10 @@ In this talk, we'll cover:
 * [Sanketh Balakrishna](https://www.linkedin.com/in/sanketh1024/) is a Senior Engineering Manager at Datadog, where he leads the Managed Replication & Search team within the Transactional Storage group, which provides platforms for replicating and searching data.
 * [Maxim Briskin](https://www.linkedin.com/in/maxim-b-1211091/) is a Senior Software Engineer at Datadog on the Data Replication team, which provides a fast, reliable way to replicate data across databases, regions, and systems. He’s also the lead engineer for the Global Storage initiative.
 
+## Length
+
+?? minutes
+
 
 <!--
 <a class="button is-primary" href="">register</a>
