@@ -29,6 +29,5 @@ In this talk, we'll cover:
 ?? minutes
 
 
-<!--
-<a class="button is-primary" href="">register</a>
--->
+<a class="button is-primary" href="https://luma.com/i9to1xc3">register</a>
+
